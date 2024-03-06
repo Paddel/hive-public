@@ -1,0 +1,18 @@
+1 VERSIONINFO
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "FileDescription", "Wasp Client"
+      VALUE "LegalCopyright", "© All rights reserved."
+      VALUE "OriginalFilename", "wasp.exe"
+      VALUE "ProductName", "Wasp Client"
+    END
+  END
+
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
